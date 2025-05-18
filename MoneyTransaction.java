@@ -6,8 +6,8 @@ import java.sql.ResultSet;
 import java.util.Scanner;
 public class MoneyTransaction {
 	private static final String URL = "jdbc:mysql://localhost:3306/jdbc_conn";
-	private static final String USERNAME = "root";
-	private static final String PASSWORD = "Srinivas@192004";
+	private static final String USERNAME = "###########";
+	private static final String PASSWORD = "###########";
 	static Connection con = null;
 	
 	

@@ -7,6 +7,6 @@ This project is a practical example of:
 Using JDBC with MySQL
 Implementing transaction control (commit, rollback)
 Enforcing transaction isolation (TRANSACTION_SERIALIZABLE) for consistency
-Bsic input validation and user authentication (via PIN)
+Basic input validation and user authentication (via PIN)
 Safe SQL execution using PreparedStatement
 It can serve as a foundational model for developing more complex financial transaction systems or as a learning exercise for understanding JDBC transaction handling in Java.
